@@ -1,0 +1,2 @@
+# CandyMapper_coi
+Projekt_droga_do_automatyzacji
